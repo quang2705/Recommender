@@ -1,4 +1,4 @@
-# Recommendation-system-
+# Recommendation-system
 This is my self taught recommender system git repository.
 Recommenddation system is field of study that trying to predict item similarity in a database given:
 1. The feature score of each item in the database 
