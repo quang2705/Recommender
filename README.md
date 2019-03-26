@@ -5,7 +5,7 @@ Recommenddation system is field of study that trying to predict item similarity 
 2. The ranking that each users given to each item in the database
 In this github repository, I will look at all (possibly) algorithm that help us in building a recommendation system
 ## Getting Started 
-### Prerequite:
+### Prerequisite:
 1. Recommended learning ahead about machine learning, algorithm design and mathemtic linear algebra as well as calculus
 2. Andrew Ng course in Machine Learning have a good introduction to Recommendation System: [https://www.coursera.org/learn/machine-learning/home/week/9]
 3. Read the [https://www.kaggle.com/rounakbanik/movie-recommender-systems/notebook], he has a good python implementation of Simple Recommender, Content Based Recommendation and Collaborative Filterting Recommendation.
